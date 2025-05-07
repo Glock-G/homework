@@ -72,14 +72,11 @@ body {
     text-transform: uppercase;
     font-weight: 700;
     color: #01A2CB;
+    margin-left: 9px;
 }
 
 .parag {
     margin-bottom: 15px;
-}
-
-span {
-    margin-left: 9px;
 }
 
 .hero-buttons {
@@ -164,6 +161,7 @@ span {
 
 .cards-flex-text {
     text-align: center;
+    padding: 0 7px;
 }
 
 .cards-button {
