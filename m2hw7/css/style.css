@@ -1,0 +1,26 @@
+body {
+    background: #1f1f1f;
+    color: #8d8d8d;
+    font-size: 45px;
+}
+
+.rectangle {
+    min-height: 100px;
+    max-width: auto;
+    border-radius: 10px;
+    background: #fff;
+    position: fixed;
+    left: 50%;
+    right: 50px;
+    bottom: 100px;
+}
+
+.round {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background: #990000;
+    position: relative;
+    left: 10%;
+    bottom: 50px;
+}
